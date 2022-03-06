@@ -5,7 +5,6 @@ public class Solution {
 
     public static void main(String[] args) {
         // Check your code here
-        range(1,100);
     }
 
     public static void range(int min, int max) {
